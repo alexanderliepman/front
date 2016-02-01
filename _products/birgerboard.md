@@ -1,6 +1,6 @@
 ---
 name: Birgerboard
-price: 580
+price: 0
 weight: 3.66
 designer: Birgers Oterutleie
 type: Wood
